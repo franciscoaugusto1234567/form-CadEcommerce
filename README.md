@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # form-CadEcommerce
 
 ## Descrição da pesquisa
 
-### CASAS BAHIA
+### Site CASAS BAHIA
 
 Campos identificados no cadastro desse site:
     
@@ -24,8 +24,8 @@ Campos identificados no cadastro desse site:
 * PIX OU BOLETO
 
 
-### Site 2
- SHOPE
+### Site SHOPE
+
 
 Campos identificados no cadastro desse site:
 NOME COMPLETO
@@ -48,8 +48,8 @@ EMAIL: Ex: meu email@gmail.com
 *FORMA DE PAGAMENTO
 *NÚMERO DO CARTAO
 
-### Site 3
- OLX
+### Site OLX
+ 
 
 Campos identificados no cadastro desse site:
                 
@@ -83,8 +83,8 @@ OLX
 ## Fontes consultadas
 *Bootstrap 5
 
-Autor
-Francisco
+# Autor
+ * Francisco
  
     
     
