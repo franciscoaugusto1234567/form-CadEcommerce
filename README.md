@@ -37,16 +37,16 @@ EMAIL: Ex: meu email@gmail.com
      
  RECEBER NOTIFICACOES
         
- *CEP       
- *NÚMERO      
- *COMPLEMENTO       
- *PONTO DE REFERÊNCIA
- *TIPO DE ENDERECO
+ * CEP       
+ * NÚMERO      
+ * COMPLEMENTO       
+ * PONTO DE REFERÊNCIA
+ * TIPO DE ENDERECO
         
-*DESTINATARIO       
-*NÚMERO DO CARTANÚMERO DE CELULAR        
-*FORMA DE PAGAMENTO
-*NÚMERO DO CARTAO
+* DESTINATARIO       
+* NÚMERO DO CARTANÚMERO DE CELULAR        
+* FORMA DE PAGAMENTO
+* NÚMERO DO CARTAO
 
 ### Site OLX
  
@@ -54,16 +54,16 @@ EMAIL: Ex: meu email@gmail.com
 Campos identificados no cadastro desse site:
                 
 APELIDO
-*Exemplo: JOAO
-*EMAIL  
-*SENHA
-*VERIFIQUE SEU EMAIL               
-*QUANTIDADE DE PRODUTO               
-*ENDERECO               
-*COMPLEMENTO               
-*CPF           
-*NÚMERO DE CELULAr 
-*FORMA DE PAGAMENTO</h3>
+* Exemplo: JOAO
+* EMAIL  
+* SENHA
+* VERIFIQUE SEU EMAIL               
+* QUANTIDADE DE PRODUTO               
+* ENDERECO               
+* COMPLEMENTO               
+* CPF           
+* NÚMERO DE CELULAr 
+* FORMA DE PAGAMENTO</h3>
 
 
 Os tres sites usados de Ecommerce usados foram:
