@@ -68,16 +68,20 @@ APELIDO
 
 Os tres sites usados de Ecommerce usados foram:
 
-CASAS BAHIA
+[CASAS BAHIA](https://www.casasbahia.com.br/) 
 
-SHOPE
+[SHOPE](https://shopee.com.br/)
 
-OLX
+[OLX](https://shopee.com.br/)
 
  
 ## Tecnologias utilizadas
 * HTML
 * Bootstrap 5
+* Git Hub
+* CSS 3
+* Live Server
+* Git Bash
 
 
 ## Fontes consultadas
